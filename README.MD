@@ -1,11 +1,11 @@
 # Spam Detection using NLP and Machine Learning
 
-## 📌 Overview
+## Overview
 This project is a machine learning-based spam detection system that classifies SMS messages as **spam** or **not spam** using Natural Language Processing (NLP) techniques.
 
 ---
 
-## 🚀 Features
+## Features
 - Text preprocessing (cleaning, tokenization)
 - TF-IDF feature extraction
 - Logistic Regression model
@@ -14,7 +14,7 @@ This project is a machine learning-based spam detection system that classifies S
 
 ---
 
-## 🧠 Technologies Used
+## Technologies Used
 - Python
 - Pandas
 - Scikit-learn
@@ -22,14 +22,13 @@ This project is a machine learning-based spam detection system that classifies S
 
 ---
 
-## 📊 Model Performance
+## Model Performance
 - Accuracy: ~95%
 - Cross-validation score: ~95%
-- Strong performance on real SMS dataset
 
 ---
 
-## 📂 Dataset
+## Dataset
 The dataset used is the SMS Spam Collection dataset (`spam.csv`) containing labeled SMS messages.
 
 Labels:
@@ -38,7 +37,7 @@ Labels:
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
 ```bash
 # Install dependencies
